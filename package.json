@@ -1,0 +1,18 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "Service Worker notification application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 8081"
+  },
+  "keywords": [
+    "pwa"
+  ],
+  "author": "Ankit Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
